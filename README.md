@@ -1,6 +1,6 @@
 # Reliance Smart sales analysis
 
-I have developed a comprehensive project using PowerBI, creating a dashboard and tables and matrix to analyze the data.
+I have developed a comprehensive project using PowerBI, creating a dashboard to analyze the data.
 
 ## Project Objective
 
