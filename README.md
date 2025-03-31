@@ -19,9 +19,6 @@ The main objective of the project is to understand the sales report of Reliance 
 - Show current month vs previous month revenue.
 - Show current month vs previous month returns
 
-
-- Dashboard Interaction <a href="https://github.com/Kholay47/Reliance-sales-Analysis-Dashboard-/blob/main/project%20files/Dashboard_img.png">View Dashboard</a>
-
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
