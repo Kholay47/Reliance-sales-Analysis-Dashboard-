@@ -22,8 +22,8 @@ The main objective of the project is to understand the sales report of Reliance 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Created measures according to the questions asked.
+- Merged all measures and existing columns into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
 
