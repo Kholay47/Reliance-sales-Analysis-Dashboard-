@@ -1,4 +1,4 @@
-# Reliance Smart sales analysis
+# Reliance Smart Sales Analysis
 
 I have developed a comprehensive project using PowerBI, creating a dashboard to analyze the data.
 
